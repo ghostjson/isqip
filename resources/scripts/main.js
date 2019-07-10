@@ -5,7 +5,8 @@ let $next_btn = document.getElementById('nextbtn');
 let $back_btn = document.getElementById('backbtn');
 
 let page = [
-    document.getElementById('details-page')
+    document.getElementById('details-page'),
+    document.getElementById('stream')
 ];
 
 
