@@ -10,14 +10,14 @@ Isqip Survey:
 			'-> 3) CSE Stream
 					-- Android  
 						'-> Feed Back (feedback)
-						-- How was the class?
-						-- How was the speaker?
-						-- Do you had any difficulties in this course?
-						-- Are you suggest this course?
-							-> if yes why?
-							-> if no why?
-						-- Is there anything we can improve in next year?
-						-- How was ISQIP overall?
+							-- How was the class?
+							-- How was the speaker?
+							-- Do you had any difficulties in this course?
+							-- Are you suggest this course?
+								-> if yes why?
+								-> if no why?
+							-- Is there anything we can improve in next year?
+							-- How was ISQIP overall?
 					-- Angular
 						'-> (feedback)
 					-- Django
